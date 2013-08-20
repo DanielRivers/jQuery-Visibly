@@ -26,7 +26,8 @@ _(Coming soon)_
 ## Help
 Rule builder is in development, hope to have releases shortly!
 
-## Planned features
+## Planned features (Code submissions welcome)
 
 - Muliple rules for a field
 - Empty / Not empty 
+- Regular expression matching
