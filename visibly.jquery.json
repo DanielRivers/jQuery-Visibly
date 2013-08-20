@@ -1,0 +1,31 @@
+{
+    "name": "visibly",
+    "title": "jQuery Visibly",
+    "description": "A jQuery Plugin designed to easily show elements based on values of other elements.",
+    "keywords": [
+        "Visibly",
+        "visible",
+        "input",
+        "form",
+        "forms"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Daniel Rivers",
+        "url": "http://www.danielrivers.com",
+        "email": "me@danielrivers.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/DanielRivers/jQuery-Visibly",
+    "homepage": "https://github.com/DanielRivers/jQuery-Visibly",
+    "docs": "https://github.com/DanielRivers/jQuery-Visibly",
+    "download": "https://github.com/DanielRivers/jQuery-Visibly",
+    "dependencies": {
+        "jquery": ">=1.2"
+    }
+}
