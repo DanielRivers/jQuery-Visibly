@@ -14,7 +14,7 @@ $('[visibly]').Visibly();
 ### Options
 ```javascript
 clearOnHide: false,  //Clear the data from the elements on hide
-regularExpression, //This determines if regular expression is to be used for the test
+regularExpression: false, //This determines if regular expression is to be used for the test
 attr: 'visibly', //Data attribute to use for the visibly data
 vdelim: ',', //Delimeter used to split the values a control can hold
 edelim: ':', //Delimeter between the field ID and the values
@@ -29,8 +29,6 @@ rdelim: '%' //Delimeter between the rules
 ```
 
 The above rule will make the relevant element visible is the value of field1 is either 'a' or 'b' and field2 has value of '1'
-
-_Further examples and demos coming soon_
 
 ## Help
 Full documentation can be found at: http://www.danielrivers.com/visibly
