@@ -1,7 +1,7 @@
 /**
  * Visibly jQuery Plugin v1.1
  *
- * @version 1.1 (20/08/2013)
+ * @version 1.1 (05/03/2015)
  * @author Daniel Rivers <me@danielrivers.com>
  * @see https://github.com/DanielRivers/jQuery-Visibly/
  *
